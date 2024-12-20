@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Arjuns20004
+- 👀 I’m interested in IoT projects, robotics, and AI-based solutions.
+- 🌱 I’m currently learning advanced embedded systems, drone programming, and smart agriculture solutions.
+- 💞️ I’m looking to collaborate on innovative IoT projects, autonomous robotics, and AI-integrated systems.
+- 📫 How to reach me: selvamarjun640@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love combining technology with nature to create sustainable and futuristic solutions!
